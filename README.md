@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_DEMO_URL">🌐 Live Demo</a> •
+  <a href="https://waitlist-sms-nine.vercel.app/">🌐 Live Demo</a> •
   <a href="https://github.com/y-ro9/waitlist-smsL">📂 GitHub Repository</a>
 </p>
 
@@ -63,7 +63,7 @@ Built with React 18, TypeScript, and Vite, this project demonstrates real-world 
 
 ## 🌐 Live Demo
 
-🚀 **Try the Application:** [Live Demo](YOUR_LIVE_DEMO_URL)
+🚀 **Try the Application:** [Live Demo](https://waitlist-sms-nine.vercel.app/)
 
 📂 **Source Code:** [GitHub Repository](https://github.com/y-ro9/waitlist-sms)
 
