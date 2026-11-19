@@ -71,13 +71,9 @@ Built with React 18, TypeScript, and Vite, this project demonstrates real-world 
 
 ## 📸 Screenshots
 
-Add your application screenshots here:
-
-```md
 ![Dashboard](./screenshots/dashboard.png)
 ![Waitlist Management](./screenshots/waitlist.png)
 ![SMS Logs](./screenshots/sms-logs.png)
-```
 
 ---
 
